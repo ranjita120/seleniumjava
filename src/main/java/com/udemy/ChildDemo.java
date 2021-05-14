@@ -17,7 +17,6 @@ package com.udemy;
             System.out.println(super.name);
         }
 
-
         public void getData()
         {
             super.getData();
