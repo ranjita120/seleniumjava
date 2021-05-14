@@ -21,7 +21,6 @@ public class ExceptionDemo {
         } finally {
             System.out.println("close all the brwoser");
         }
-
     }
 }
 
