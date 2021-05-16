@@ -4,7 +4,7 @@ import com.udemy.ContinentalTraffic;
 public class AustralianTraffic implements CentralTraffic,ContinentalTraffic{
     public static void main(String[] args)
     {
-        System.out.println("australia 1");
+        System.out.println("australia 2");
         CentralTraffic a=new AustralianTraffic();
         ContinentalTraffic b=new AustralianTraffic();
         a.redStop();
