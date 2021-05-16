@@ -12,7 +12,7 @@ public class ChildClassDemo extends ParentClassDemo {
     public void breaksystem()
 
     {
-        System.out.println("child:install break system");
+        System.out.println("child:install break system 2");
     }
 
     public static void main(String[] args) {
