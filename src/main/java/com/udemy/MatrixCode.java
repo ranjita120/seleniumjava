@@ -10,6 +10,7 @@ public class MatrixCode {
                 k++;
             }
             System.out.println(" ");
+            System.out.println("end of program");
         }
     }
 }
