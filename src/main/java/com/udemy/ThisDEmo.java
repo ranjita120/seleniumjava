@@ -13,6 +13,6 @@ public void getdata()
     public static void main(String[] args) {
     ThisDEmo d1=new ThisDEmo();
     d1.getdata();
-
+        System.out.println("program completed");
     }
 }
