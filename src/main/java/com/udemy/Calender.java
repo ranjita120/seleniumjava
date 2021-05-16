@@ -10,6 +10,6 @@ public class Calender {
         SimpleDateFormat s1=new SimpleDateFormat("M/dd/yyyy");
         System.out.println(s1.format(c1.getTime()));
         System.out.println(c1.getFirstDayOfWeek());
-
+        System.out.println("Calender.main ended");
     }
 }
